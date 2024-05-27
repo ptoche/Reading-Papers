@@ -9,5 +9,5 @@ neural networks; sequence transduction models;  encoder-decoder; transformer; BL
 
 
 ## Wikipedia Pages
-https://en.wikipedia.org/wiki/BLEU
-
+* https://en.wikipedia.org/wiki/BLEU
+* https://en.wikipedia.org/wiki/Attention_(machine_learning)
